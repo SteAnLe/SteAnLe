@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteAnLe
 - 👀 I’m interested in ... Learning, Working, Collaborating
-- 🌱 I’m currently learning ... CSS, PHP, HTML
+- 🌱 I’m currently learning ... CSS, PHP, HTML, Python
 - 📫 How to reach me ...
 
 <!---
